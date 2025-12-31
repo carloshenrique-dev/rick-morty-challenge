@@ -2,6 +2,12 @@
 
 This application allows users to explore and view characters from the Rick and Morty universe. It was built with a focus on scalability, maintainability, and a polished user experience, providing a seamless way to discover the series' diverse cast.
 
+### Demo
+
+https://github.com/user-attachments/assets/b5c83459-b407-4ee9-b89b-4d8f7986f06d
+
+https://github.com/user-attachments/assets/7f2497ab-680d-4305-b779-2a172060335b
+
 ### Key Features
 *   **Infinite Scrolling**: Pagination is handled seamlessly as the user scrolls.
 *   **Search & Filter**: Real-time name search (with debounce) and status filtering.
